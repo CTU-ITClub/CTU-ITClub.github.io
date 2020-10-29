@@ -1,0 +1,30 @@
+$black: #171414;
+$black-80: #171414cc;
+$black-50: #17141480;
+$black-30: #1714144d;
+$black-0: #17141400;
+
+$white: #fafafa;
+$white-80: #fafafacc;
+$white-50: #fafafa80;
+$white-30: #fafafa4d;
+$white-0: #fafafa00;
+
+$yellow: #e6ecac;
+$yellow-80: #e6ecaccc;
+$yellow-50: #e6ecac80;
+$yellow-30: #e6ecac4d;
+$yellow-0: #e5ecac00;
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button {
+  color: $white;
+  background-color: $black;
+}

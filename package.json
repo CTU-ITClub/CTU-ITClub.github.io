@@ -1,0 +1,25 @@
+{
+  "name": "ctu-itclub.github.io",
+  "version": "1.0.0",
+  "description": "CTU ITClub Official Website",
+  "main": "nuxt.config.ts",
+  "repository": "https://github.com/CTU-ITClub/ctu-itclub.github.io.git",
+  "author": "Daomtthuan <dao.mt.thuan@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^2.0.0",
+    "@nuxtjs/pwa": "^3.0.2",
+    "bootstrap-vue": "^2.16.0",
+    "nuxt": "^2.14.4",
+    "nuxt-property-decorator": "^2.7.2"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.4",
+    "@nuxt/typescript-build": "^2.0.3",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "node-sass": "^4.14.1",
+    "push-dir": "^0.4.1",
+    "sass-loader": "^10.0.2"
+  }
+}
